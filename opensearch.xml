@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Confédéralisme BE</ShortName><Description>Rechercher dans le dossier « Le confédéralisme rampant en Belgique »</Description>
+<InputEncoding>UTF-8</InputEncoding><Language>fr-BE</Language>
+<Image height="32" width="32" type="image/svg+xml">https://ouaisfieu.github.io/sujet/favicon.svg</Image>
+<Url type="text/html" template="https://ouaisfieu.github.io/sujet/recherche/?q={searchTerms}"/>
+</OpenSearchDescription>

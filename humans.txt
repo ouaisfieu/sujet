@@ -1,0 +1,9 @@
+/* AUTEUR */
+Rédaction : Claude (Anthropic)
+Publication : anonyme
+
+/* SITE */
+Mise à jour : 2026-11-16
+Langue : français (Belgique)
+Technique : HTML, CSS et JavaScript statiques, sans build ni dépendance
+Licence des textes : CC BY 4.0

@@ -1,0 +1,29 @@
+# Le confédéralisme rampant en Belgique
+
+> Réalité juridique, dynamique politique ou slogan ? Dossier critique et sourcé sur le confédéralisme rampant en Belgique : concepts, réformes de l’État, Sénat, finances, acteurs, opinion et scénarios.
+
+Dossier analytique en français (Belgique), rédigé par Claude (Anthropic), état des lieux au 16 novembre 2026. Licence CC BY 4.0.
+
+## Chapitres
+
+- [Le concept : fédéralisme, confédération, confédéralisme rampant](https://ouaisfieu.github.io/sujet/concept/): Définitions croisées du fédéralisme, de la confédération et du « confédéralisme » à la belge ; origine de l’expression confédéralisme rampant, larvé ou de fait (sluipend confederalisme).
+- [De l’État unitaire au fédéralisme centrifuge](https://ouaisfieu.github.io/sujet/histoire/): Les six réformes de l’État belge de 1970 à 2014, la scission des partis, l’équipollence des normes et les germes institutionnels du confédéralisme rampant.
+- [Les mécanismes : comment le pouvoir se déplace sans réforme de l’État](https://ouaisfieu.github.io/sujet/mecanismes/): Traits confédéraux de la Constitution belge, politique extérieure, compétences implicites, exercice asymétrique de compétences fédérales, ententes asymétriques et accords de coopération.
+- [L’article 195 et la suppression du Sénat](https://ouaisfieu.github.io/sujet/senat-article-195/): Révision transitoire de l’article 195 de la Constitution en 2026, étapes de la suppression du Sénat, « huit votes » ou douze, majorités requises, rôle du Vlaams Belang, réforme avortée de la Cour constitutionnelle.
+- [Finances : l’asphyxie du centre fédéral](https://ouaisfieu.github.io/sujet/finances/): Loi spéciale de financement, extinction du mécanisme de transition (2025-2034), procédure européenne pour déficit excessif, dette des entités fédérées, transferts interrégionaux selon la BNB.
+- [Acteurs et positions](https://ouaisfieu.github.io/sujet/acteurs/): Modèle confédéral de la N-VA (Grondverdrag, Brusselkeuze), plan d’indépendance du Vlaams Belang, CD&V, PS, MR, Les Engagés, Ecolo, DéFI, PTB, régionalistes wallons ; enquête auprès des parlementaires.
+- [Bruxelles, nœud gordien](https://ouaisfieu.github.io/sujet/bruxelles/): Pourquoi Bruxelles rend tout modèle confédéral « à deux » impraticable : 613 jours sans gouvernement, gouvernement Dilliès, sous-financement, navetteurs et Brusselkeuze.
+- [Opinion publique : ce que disent (et ne disent pas) les sondages](https://ouaisfieu.github.io/sujet/opinion/): Sondages et études sur la scission de la Belgique, l’indépendance flamande, le confédéralisme et la refédéralisation ; lecture critique des méthodes ; intentions de vote N-VA et Vlaams Belang en 2026.
+- [Analyse critique : arguments pour et contre](https://ouaisfieu.github.io/sujet/analyse/): Arguments en faveur et contre une évolution confédérale de la Belgique : démocratie différenciée, responsabilisation, efficacité, solidarité, Bruxelles, déficit démocratique, sécurité juridique. Verdict sur la thèse du confédéralisme rampant.
+- [Comparaisons internationales](https://ouaisfieu.github.io/sujet/comparaisons/): Ce que la Suisse, le Canada, l’Espagne, la Bosnie-Herzégovine et le Royaume-Uni enseignent sur le confédéralisme rampant belge.
+- [Scénarios 2029-2034 et recommandations](https://ouaisfieu.github.io/sujet/scenarios/): Cinq scénarios pour l’avenir institutionnel de la Belgique (érosion, grande réforme, refédéralisation, rupture, paralysie), indicateurs à suivre et recommandations.
+- [Chronologie 1962-2026](https://ouaisfieu.github.io/sujet/chronologie/): Les dates clés de la fédéralisation belge et du débat confédéral, de la frontière linguistique (1962) à la crise budgétaire de novembre 2026.
+- [Glossaire](https://ouaisfieu.github.io/sujet/glossaire/): Définitions des notions clés : équipollence des normes, exercice asymétrique, loi spéciale, sonnette d’alarme, LSF, Grondverdrag, Brusselkeuze, article 195…
+- [Questions fréquentes](https://ouaisfieu.github.io/sujet/faq/): Réponses courtes : la Belgique est-elle une confédération ? Le Sénat va-t-il disparaître ? Les Flamands veulent-ils la fin de la Belgique ?
+- [Sources et bibliographie](https://ouaisfieu.github.io/sujet/sources/): Bibliographie complète du dossier : doctrine (CRISP, UCLouvain, ULiège, KU Leuven, VUB), textes officiels, données budgétaires, sondages, presse francophone et néerlandophone.
+- [Méthodologie et transparence](https://ouaisfieu.github.io/sujet/methodologie/): Comment ce dossier a été réalisé : auteur (Claude, IA d’Anthropic), corpus, méthode de croisement, divergences entre sources, limites et licence CC BY 4.0.
+
+## Données
+
+- [Index plein texte (JSON)](https://ouaisfieu.github.io/sujet/search-index.json)
+- [Plan du site](https://ouaisfieu.github.io/sujet/sitemap.xml)

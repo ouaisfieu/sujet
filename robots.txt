@@ -1,0 +1,6 @@
+# Note : sur un site de projet GitHub Pages, les robots lisent /robots.txt à la racine du domaine.
+# Ce fichier sert de référence ; soumettez le sitemap dans la Search Console.
+User-agent: *
+Allow: /
+
+Sitemap: https://ouaisfieu.github.io/sujet/sitemap.xml
